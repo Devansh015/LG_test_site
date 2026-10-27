@@ -1,0 +1,624 @@
+{
+  "business": {
+    "name": "Valore Property Group",
+    "email": "hello@valore.example",
+    "phone": "416-555-0142",
+    "previewContacts": true,
+    "area": "Greater Toronto Area & Ontario",
+    "coverage": "GTA-focused. Services elsewhere in Ontario are confirmed individually, including local support and on-site availability."
+  },
+  "home": {
+    "heroTitle": "Your Property.\nOur Priority.",
+    "heroDescription": "Thoughtful property management. Clear communication. More time for what matters to you.",
+    "heroImage": "/images/skyline.jpg",
+    "introTitle": "Property ownership should be rewarding. Not overwhelming.",
+    "introDescription": "Your investment deserves attention. Your time deserves respect. From tenant conversations to maintenance coordination, Valore brings structure and care to the everyday details of rental ownership.",
+    "introImage": "/images/interior.jpg",
+    "introImageAlt": "Contemporary living room with natural light, neutral furnishings and warm wood details",
+    "heroImageAlt": "Toronto skyline and CN Tower across Lake Ontario at sunset"
+  },
+  "about": {
+    "title": "A higher standard of property management.",
+    "description": "We believe a well-managed property starts with a well-informed owner. Valore brings a considered, accountable approach to the work behind rental ownership.",
+    "mission": "To make property ownership more manageable through clear communication, dependable coordination and attention to the details that protect long-term property value.",
+    "story": "A rental property is more than an asset on paper. It is an ongoing responsibility, a home for someone else, and part of your long-term plans. Our approach is built around all three.",
+    "commitment": "We focus on the operational work that owners need: keeping conversations moving, coordinating next steps and making responsibilities clear. We start by understanding your property, then recommend a service scope that fits."
+  },
+  "services": [
+    {
+      "id": "property-management",
+      "title": "Property Management",
+      "short": "The everyday details, thoughtfully managed.",
+      "description": "A clear point of contact for your property. We coordinate the day-to-day responsibilities so you can stay informed without handling every conversation.",
+      "image": "/images/residence.jpg",
+      "imageAlt": "Contemporary open-plan residence with natural materials and generous daylight",
+      "details": [
+        "Tenant communication and rent tracking",
+        "Maintenance and contractor coordination",
+        "Late rent follow-up and renewal reminders",
+        "Lease administration, inspections and reporting according to your plan"
+      ],
+      "cta": "Explore Management Plans",
+      "href": "/pricing"
+    },
+    {
+      "id": "leasing",
+      "title": "Leasing & Tenant Placement",
+      "short": "A considered start to your next tenancy.",
+      "description": "Support with the steps between an available rental and a new tenancy, from rental positioning to applicant review and move-in arrangements.",
+      "image": "/images/interior.jpg",
+      "imageAlt": "Bright rental living space with neutral furnishings and natural light",
+      "details": [
+        "Property and leasing consultation",
+        "Rental positioning and marketing",
+        "Applicant enquiries and showings",
+        "Application review and tenant screening",
+        "Lease documentation and move-in coordination"
+      ],
+      "cta": "Request Leasing Assistance",
+      "href": "/get-a-quote?service=leasing"
+    },
+    {
+      "id": "maintenance",
+      "title": "Maintenance Coordination",
+      "short": "Care for the property. Clarity for the owner.",
+      "description": "A structured approach to maintenance requests, contractor communication and repair scheduling, with owner updates throughout the coordination process.",
+      "image": "/images/residence.jpg",
+      "imageAlt": "Contemporary home featuring carefully maintained finishes",
+      "details": [
+        "Maintenance requests and contractor communication",
+        "Repair scheduling and owner updates",
+        "Emergency coordination",
+        "Preventative maintenance planning with Prestige"
+      ],
+      "cta": "Get Property Management Support",
+      "href": "/get-a-quote?service=maintenance"
+    },
+    {
+      "id": "investment",
+      "title": "Investment Property Services",
+      "short": "An owner's perspective. A longer-term view.",
+      "description": "Operational insight for your rental property, with service consultations that consider condition, expenses, turnover and future maintenance needs.",
+      "image": "/images/architecture.jpg",
+      "imageAlt": "Contemporary high-rise architecture viewed from below",
+      "details": [
+        "Rental market reviews with Prestige",
+        "Property condition monitoring according to plan",
+        "Expense visibility and turnover planning",
+        "Long-term maintenance considerations",
+        "Portfolio service consultations"
+      ],
+      "cta": "Discuss Your Property Goals",
+      "href": "/get-a-quote?service=investment"
+    }
+  ],
+  "principles": [
+    {
+      "title": "Communication with clarity",
+      "description": "Know what is happening, what needs your attention and what comes next."
+    },
+    {
+      "title": "Thoughtful property oversight",
+      "description": "Keep property condition and maintenance needs part of the ongoing conversation."
+    },
+    {
+      "title": "An easier owner experience",
+      "description": "Bring tenant communication, coordination and property information together."
+    },
+    {
+      "title": "The right level of support",
+      "description": "Choose a service plan around your property and your preferred involvement."
+    },
+    {
+      "title": "Care in the details",
+      "description": "Give everyday property responsibilities the consideration they deserve."
+    },
+    {
+      "title": "A long-term perspective",
+      "description": "Consider today's decisions in the context of your property's future."
+    }
+  ],
+  "process": [
+    {
+      "title": "Tell us about your property",
+      "description": "Share your location, rental details and the support you are looking for."
+    },
+    {
+      "title": "Find your fit",
+      "description": "Receive a tailored recommendation with a clear service scope and fees."
+    },
+    {
+      "title": "Get set up with Valore",
+      "description": "Confirm the details, documentation and responsibilities before service begins."
+    },
+    {
+      "title": "Own with more clarity",
+      "description": "Stay informed while we coordinate the agreed day-to-day responsibilities."
+    }
+  ],
+  "pricing": {
+    "plans": [
+      {
+        "id": "core",
+        "name": "Core",
+        "description": "For landlords who need help managing the basics.",
+        "monthlyFee": 159,
+        "rate": 0,
+        "minimum": 0,
+        "label": "The essentials",
+        "previewFeatures": [
+          "tenant",
+          "rent",
+          "maintenance",
+          "emergency"
+        ]
+      },
+      {
+        "id": "signature",
+        "name": "Signature",
+        "description": "A more complete picture of your property.",
+        "monthlyFee": 0,
+        "rate": 0.055,
+        "minimum": 179,
+        "label": "Recommended",
+        "previewFeatures": [
+          "reports",
+          "lease",
+          "inspections",
+          "expenses"
+        ]
+      },
+      {
+        "id": "prestige",
+        "name": "Prestige",
+        "description": "Considered care, with a longer-term perspective.",
+        "monthlyFee": 0,
+        "rate": 0.075,
+        "minimum": 269,
+        "label": "Full Service",
+        "previewFeatures": [
+          "inspections",
+          "priority",
+          "preventative",
+          "annual"
+        ]
+      }
+    ],
+    "features": [
+      {
+        "id": "tenant",
+        "label": "Tenant communication",
+        "core": {
+          "included": true,
+          "detail": ""
+        },
+        "signature": {
+          "included": true,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "rent",
+        "label": "Rent tracking",
+        "core": {
+          "included": true,
+          "detail": ""
+        },
+        "signature": {
+          "included": true,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "maintenance",
+        "label": "Maintenance & contractor coordination",
+        "core": {
+          "included": true,
+          "detail": ""
+        },
+        "signature": {
+          "included": true,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "late",
+        "label": "Late rent follow-up",
+        "core": {
+          "included": true,
+          "detail": ""
+        },
+        "signature": {
+          "included": true,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "reminders",
+        "label": "Lease renewal reminders",
+        "core": {
+          "included": true,
+          "detail": ""
+        },
+        "signature": {
+          "included": true,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "emergency",
+        "label": "Emergency coordination",
+        "core": {
+          "included": true,
+          "detail": ""
+        },
+        "signature": {
+          "included": true,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "reports",
+        "label": "Monthly owner reports",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": true,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "lease",
+        "label": "Lease administration",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": true,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "move",
+        "label": "Move-in & move-out coordination",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": true,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "inspections",
+        "label": "Property inspections (annual total)",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": true,
+          "detail": "1 per year"
+        },
+        "prestige": {
+          "included": true,
+          "detail": "2 per year"
+        }
+      },
+      {
+        "id": "expenses",
+        "label": "Expense & invoice tracking",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": true,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "condition",
+        "label": "Property condition monitoring",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": true,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "increases",
+        "label": "Rent increase tracking",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": true,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "ltb",
+        "label": "LTB administrative coordination",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": true,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "priority",
+        "label": "Priority service",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": false,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "preventative",
+        "label": "Preventative maintenance planning",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": false,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "annual",
+        "label": "Annual property review",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": false,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "market",
+        "label": "Rental market review",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": false,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "enhanced",
+        "label": "Enhanced owner reporting",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": false,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "turnover",
+        "label": "Turnover coordination",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": false,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      },
+      {
+        "id": "projects",
+        "label": "Limited renovation & project coordination",
+        "core": {
+          "included": false,
+          "detail": ""
+        },
+        "signature": {
+          "included": false,
+          "detail": ""
+        },
+        "prestige": {
+          "included": true,
+          "detail": ""
+        }
+      }
+    ],
+    "addons": [
+      {
+        "name": "Tenant Placement & Leasing",
+        "price": "60% of one month's rent"
+      },
+      {
+        "name": "Additional Property Inspection",
+        "price": "$129"
+      },
+      {
+        "name": "Property Setup/Onboarding",
+        "price": "$179"
+      },
+      {
+        "name": "Move-In or Move-Out Inspection",
+        "price": "$129"
+      },
+      {
+        "name": "Lease Renewal",
+        "price": "$129"
+      },
+      {
+        "name": "Rental-Ready/Turnover Coordination",
+        "price": "Starting at $199"
+      },
+      {
+        "name": "Renovation/Project Coordination",
+        "price": "4–7% of project cost"
+      }
+    ],
+    "disclaimer": "Repair costs, contractors, materials, LTB filing fees, lawyers/paralegals, and eviction/enforcement costs are paid separately by the property owner."
+  },
+  "faqs": [
+    {
+      "question": "Which management package is right for me?",
+      "answer": "Core covers everyday coordination. Signature adds reporting, lease administration and one annual inspection. Prestige builds on Signature with two annual inspections in total, planning and enhanced reporting. We can help match the scope to your property and preferred involvement."
+    },
+    {
+      "question": "How does percentage-based pricing work?",
+      "answer": "Signature is 5.5% of monthly rent with a $179 monthly minimum. Prestige is 7.5% with a $269 monthly minimum. At $3,000 monthly rent, the minimum applies to both. Core is a flat $159 per month. The estimator shows management fees only; final terms are confirmed in your quote."
+    },
+    {
+      "question": "Are maintenance and repair costs included?",
+      "answer": "Coordination is included according to your package. Repairs, contractor charges and materials are paid separately by the property owner. Approval arrangements and the scope of emergency coordination are confirmed before service begins."
+    },
+    {
+      "question": "Can you help find a tenant?",
+      "answer": "Tenant Placement & Leasing is available for 60% of one month's rent. The proposed workflow covers consultation, rental marketing, enquiries, application review and move-in coordination. We confirm the marketing, screening and showing arrangements with you before starting."
+    },
+    {
+      "question": "What happens if rent is late?",
+      "answer": "All three plans include rent tracking and late rent follow-up. Signature and Prestige also include LTB administrative coordination. This is not legal advice or legal representation. Filing fees and legal or enforcement costs are separate, and outcomes are not guaranteed."
+    },
+    {
+      "question": "How often is my property inspected?",
+      "answer": "Signature includes one property inspection per year; Prestige includes two per year in total. Additional inspections are $129 each. Move-in or move-out inspections are separate add-ons at $129. Access and scheduling are subject to applicable requirements and the agreed service scope."
+    },
+    {
+      "question": "Do you manage properties outside the GTA?",
+      "answer": "Our focus is the Greater Toronto Area, with services available across Ontario on a property-specific basis. Tell us your location so we can confirm the available service scope, local support and any on-site requirements."
+    }
+  ],
+  "seo": [
+    {
+      "path": "/",
+      "title": "Property Management in Toronto & the GTA",
+      "description": "Thoughtful residential property management, leasing and maintenance coordination for GTA and Ontario owners. Compare transparent Valore plans and request a free quote."
+    },
+    {
+      "path": "/about",
+      "title": "About Valore Property Group",
+      "description": "Our approach to property management: clear communication, owner-first service and long-term property stewardship in the GTA and Ontario."
+    },
+    {
+      "path": "/services",
+      "title": "Property Management & Leasing Services",
+      "description": "Explore residential property management, tenant placement, maintenance coordination and investment property services for GTA and Ontario owners."
+    },
+    {
+      "path": "/pricing",
+      "title": "Property Management Pricing & Fee Estimator",
+      "description": "Compare Core at $159/month, Signature at 5.5% and Prestige at 7.5%, with monthly minimums. View add-on fees and estimate your management costs in CAD."
+    },
+    {
+      "path": "/contact",
+      "title": "Contact Valore Property Group",
+      "description": "Discuss your rental property with Valore Property Group. General enquiries and property management support for owners in the GTA and Ontario."
+    },
+    {
+      "path": "/get-a-quote",
+      "title": "Get a Free Property Management Quote",
+      "description": "Tell Valore about your property and receive a tailored management recommendation. Request a free quote for property management and leasing services."
+    },
+    {
+      "path": "/privacy-policy",
+      "title": "Privacy Policy",
+      "description": "Learn how enquiry information is used, the purpose of collection and how to ask about your personal information at Valore Property Group."
+    }
+  ]
+}
